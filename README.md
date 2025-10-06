@@ -44,7 +44,4 @@ cd to-do-list-app
 
 Screenshot
 
-<img width="1360" height="767" alt="Screenshot 2025-10-06 114956" src="https://github.com/user-attachments/assets/ec2f901a-18f4-4b51-83ba-749685a88d6a" />
-
-
-
+<img width="1364" height="767" alt="Screenshot 2025-10-06 115533" src="https://github.com/user-attachments/assets/dff44129-9476-442a-ba6a-d64ffd51c5a5" />
